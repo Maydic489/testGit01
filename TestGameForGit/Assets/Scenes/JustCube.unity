@@ -227,6 +227,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 147566bb2b186094b93aa4a7be8e5916, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  redMat: {fileID: 2100000, guid: ffde3369ed84f064482058fef5048ce0, type: 2}
+  bluMat: {fileID: 2100000, guid: 664008d66e0e629449720cc5740ba8e0, type: 2}
 --- !u!1 &632024144
 GameObject:
   m_ObjectHideFlags: 0
@@ -333,6 +335,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 147566bb2b186094b93aa4a7be8e5916, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  redMat: {fileID: 2100000, guid: ffde3369ed84f064482058fef5048ce0, type: 2}
+  bluMat: {fileID: 2100000, guid: 664008d66e0e629449720cc5740ba8e0, type: 2}
 --- !u!1 &758637676
 GameObject:
   m_ObjectHideFlags: 0
@@ -439,6 +443,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 147566bb2b186094b93aa4a7be8e5916, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  redMat: {fileID: 2100000, guid: ffde3369ed84f064482058fef5048ce0, type: 2}
+  bluMat: {fileID: 2100000, guid: 664008d66e0e629449720cc5740ba8e0, type: 2}
 --- !u!1 &820408481
 GameObject:
   m_ObjectHideFlags: 0
@@ -545,6 +551,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 147566bb2b186094b93aa4a7be8e5916, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  redMat: {fileID: 2100000, guid: ffde3369ed84f064482058fef5048ce0, type: 2}
+  bluMat: {fileID: 2100000, guid: 664008d66e0e629449720cc5740ba8e0, type: 2}
 --- !u!1 &1067861229
 GameObject:
   m_ObjectHideFlags: 0
@@ -651,6 +659,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 147566bb2b186094b93aa4a7be8e5916, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  redMat: {fileID: 2100000, guid: ffde3369ed84f064482058fef5048ce0, type: 2}
+  bluMat: {fileID: 2100000, guid: 664008d66e0e629449720cc5740ba8e0, type: 2}
 --- !u!1 &1526229077
 GameObject:
   m_ObjectHideFlags: 0
@@ -757,6 +767,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 147566bb2b186094b93aa4a7be8e5916, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  redMat: {fileID: 2100000, guid: ffde3369ed84f064482058fef5048ce0, type: 2}
+  bluMat: {fileID: 2100000, guid: 664008d66e0e629449720cc5740ba8e0, type: 2}
 --- !u!1 &1610089661
 GameObject:
   m_ObjectHideFlags: 0
@@ -955,6 +967,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 147566bb2b186094b93aa4a7be8e5916, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  redMat: {fileID: 2100000, guid: ffde3369ed84f064482058fef5048ce0, type: 2}
+  bluMat: {fileID: 2100000, guid: 664008d66e0e629449720cc5740ba8e0, type: 2}
 --- !u!1 &1934542297
 GameObject:
   m_ObjectHideFlags: 0
@@ -1061,6 +1075,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 147566bb2b186094b93aa4a7be8e5916, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  redMat: {fileID: 2100000, guid: ffde3369ed84f064482058fef5048ce0, type: 2}
+  bluMat: {fileID: 2100000, guid: 664008d66e0e629449720cc5740ba8e0, type: 2}
 --- !u!1 &1983112459
 GameObject:
   m_ObjectHideFlags: 0
@@ -1250,3 +1266,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 147566bb2b186094b93aa4a7be8e5916, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  redMat: {fileID: 2100000, guid: ffde3369ed84f064482058fef5048ce0, type: 2}
+  bluMat: {fileID: 2100000, guid: 664008d66e0e629449720cc5740ba8e0, type: 2}
