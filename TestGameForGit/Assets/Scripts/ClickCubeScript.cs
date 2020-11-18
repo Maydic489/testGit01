@@ -6,7 +6,6 @@ public class ClickCubeScript : MonoBehaviour
 {
     public Material redMat;
     public Material bluMat;
-    public string matName;
 
     // Start is called before the first frame update
     void Start()
@@ -17,19 +16,18 @@ public class ClickCubeScript : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        matName = this.gameObject.GetComponent<MeshRenderer>().material.name;
+       
     }
 
-    private void OnMouseDown()
-    {
-        if(this.gameObject.GetComponent<MeshRenderer>().material.name!= "BlueMat (Instance)")
-        {
-            this.gameObject.GetComponent<MeshRenderer>().material = bluMat;
-        }
-        else
-        {
-            this.gameObject.GetComponent<MeshRenderer>().material = redMat;
-        }
-    }
-    
+    //private void OnMouseDown()
+    //{
+    //    if (this.gameObject.GetComponent<MeshRenderer>().material.name != "BlueMat (Instance)")
+    //    {
+    //        this.gameObject.GetComponent<MeshRenderer>().material = bluMat;
+    //    }
+    //    else
+    //    {
+    //        this.gameObject.GetComponent<MeshRenderer>().material = redMat;
+    //    }
+    //}
 }
